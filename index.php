@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Aqui Vai o Titulo</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<div>
